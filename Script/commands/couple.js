@@ -2,9 +2,9 @@ module.exports.config = {
     name: "couple",
     version: "2.0.0",
     hasPermssion: 0,
-    credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+    credits: "ANIK",
     description: "Seo phi",
-    commandCategory: "Love",
+    commandCategory: "!Love",
     usages: "[tag]",
     cooldowns: 5,
     dependencies: {
